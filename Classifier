@@ -1,0 +1,3 @@
+The classifier and supporting files are available for download at https://drive.google.com/file/d/1QJbGEI1h31Uofwn2DPW5HseP0nzhpFLf/view?usp=sharing
+However, in order to obtain maximum accuracy, we recommend training a custom classifier on newly acquired videos as the experimental conditions such as light, 
+cage dimensions, mouse colour and bedding can differ across laboratories.
